@@ -1,11 +1,11 @@
 {
     "background_color": "#1a1b27",
     "line_colors": {
-        "clones": "#8af4bd66",
+        "clones": "#8aadf466",
         "views": "#cba6f766"
     },
     "point_colors": {
-        "clones": "#8af4bd",
+        "clones": "#8aadf4",
         "views": "#cba6f7"
     },
     "text_color": "#5e7cff",
